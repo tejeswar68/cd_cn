@@ -1,2 +1,2 @@
-
-    s.erase(s.size()-1,1);
+ // for(int x : hamming)
+    //     cout << x << " ";
